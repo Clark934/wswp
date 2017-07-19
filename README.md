@@ -9,14 +9,14 @@
 ****
 ## 目录
 * [Bug](#Bug)
-* [OriginalReadme](#OriginalReadme)
+* [Original_Readme](#Original_Readme)
 
 Bug
 ------
 The first bug comes from the websites update.The url input of the 'link_crawler' should be as follows.
 `link_crawler('http://example.webscraping.com/places', '/places/default/(index|view)', delay=0, num_retries=1,user_agent='BadCrawler')`
 
-Original Readme
+Original_Readme
 ------
 This repository contains source code of examples from the book *Web Scraping with Python*, published by Packt Publishing. 
 Examples have been tested with Python 2.7 and depend on: 
