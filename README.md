@@ -1,7 +1,7 @@
 # Web Scraping with Python
 ------
 
-一边学习《用Python写网络爬虫》一书，一边对于书中因为事例网站的变化而导致的bug进行修复。
+一边学习《用Python写网络爬虫》一书，一边对于书中因为事例网站的变化而导致的bug进行修复。  
 This repository contains fixed source code of examples from the book  *Web Scraping with Python*.
 ****
 ### Author:Siyao Chen
