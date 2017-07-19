@@ -1,7 +1,15 @@
-# wswp
-## Web Scraping with Python
+# Web Scraping with Python
+===========================
 
-一边学习《用Python写网络爬虫》一书，一边对于书中因为实例网站的变化而导致的bug进行修复。
+一边学习《用Python写网络爬虫》一书，一边对于书中因为事例网站的变化而导致的bug进行修复。
+
+****
+### Author:Siyao Chen
+### E-mail:siyao.chen92@gmail.com
+****
+The first bug comes from the websites update.The url input of the 'link_crawler' should be as follows.
+`link_crawler('http://example.webscraping.com/places', '/places/default/(index|view)', delay=0, num_retries=1,
+              user_agent='BadCrawler')`
 
 
 This repository contains source code of examples from the book *Web Scraping with Python*, published by Packt Publishing. 
